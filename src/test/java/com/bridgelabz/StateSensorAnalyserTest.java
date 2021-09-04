@@ -75,11 +75,6 @@ public class StateSensorAnalyserTest {
             e.printStackTrace();
         }
     }
-
-    /**
-     * Purpose : Given the State Census CSV File when correct but csv header incorrect
-     * Returns a Custom Exception
-     */
     @Test
     public void givenStateCensusCSVFileCorrect_ButHeaderIncorrectShouldThowException() {
         List<String> stringName = new ArrayList<>();

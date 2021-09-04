@@ -1,0 +1,2 @@
+com/bridgelabz/StateSensorAnalyserTest.java
+ com.bridgelabz.StateSensorAnalyserTest
